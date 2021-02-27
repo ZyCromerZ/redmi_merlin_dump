@@ -1,0 +1,5 @@
+<!--
+    Input:
+        odm_manifest_merlin.xml
+-->
+<manifest version="1.0" type="device"/>
